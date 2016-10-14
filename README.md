@@ -31,7 +31,7 @@ The ESP8266 is popular for hobbyists building "Internet of Things" connected dev
 ## Contributing and Learning More About Two Sigma
 We warmly welcome pull requests!  The TS 8x8 will be making appearances at a number of events attended by Two Sigma, and we hope you'll find it an inspiring platform to experiment and learn about the field of wearable technology and creative computing!
 
-Learn more about Two Sigma Investments and our culture of creativity at (https://www.twosigma.com!
+Learn more about Two Sigma Investments and our culture of creativity at https://www.twosigma.com!
 
 Finally, explore our other open source contributions at https://www.github.com/twosigma!
 
